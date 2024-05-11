@@ -1,0 +1,11 @@
+Welcome to Easy-Winget-UI 
+
+By Jck773 on GitHub
+
+before u open the .ps1 make sure u have winget up to date/downloaded in ur microsoft store 
+
+u can check my checking this website 
+
+https://www.microsoft.com/store/productId/9NBLGGH4NNS1?ocid=pdpshare
+
+This is my first Github code 
