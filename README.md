@@ -7,3 +7,5 @@ Install essential apps in seconds: Ditch the web searches and endless downloads.
 Focus on what matters: No more time wasted on installers and launchers. Easy-Winget-UI gets you straight to using the programs you need, maximizing your productivity.
 Simple and intuitive: The user-friendly interface makes it easy for anyone to navigate, regardless of technical expertise.
 Easy-Winget-UI: Get started, get productive – fast.
+
+Doesn't work for Windows 11 though sadly
